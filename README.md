@@ -13,6 +13,7 @@ Django onlineshop project
 ![456png](https://user-images.githubusercontent.com/91489846/145455451-b6da2ebb-0d61-44c1-a9d6-23e14043fbc6.png)
 
 
+![45](https://user-images.githubusercontent.com/91489846/145455739-2b5f7292-91c1-4989-bf0a-23cc945bccef.png)
 
 
 
