@@ -9,6 +9,8 @@ Django onlineshop project
 ![pp323ng](https://user-images.githubusercontent.com/91489846/145452689-9b2efd72-3ced-4acc-925f-b1797e5c4340.png)
 
 ![p2](https://user-images.githubusercontent.com/91489846/145452964-49c9982d-d1b8-4734-a66d-bb13bcdf76ea.png)
+![p3](https://user-images.githubusercontent.com/91489846/145453335-dc17fed8-c082-42a7-be5a-d2ad59090fba.png)
+
 
 
 
