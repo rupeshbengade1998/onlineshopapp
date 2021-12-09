@@ -1,0 +1,2 @@
+# onlineshopapp
+Django onlineshop project
