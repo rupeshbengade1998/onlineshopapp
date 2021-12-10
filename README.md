@@ -26,3 +26,6 @@ Django onlineshop project
 
 
 ![1n33g](https://user-images.githubusercontent.com/91489846/145635345-74a8c74e-04f6-4872-bbea-1d012c842fac.png)
+
+![1n733g](https://user-images.githubusercontent.com/91489846/145635447-45d5c719-5a70-42de-9179-b8d3ae6928e3.png)
+
